@@ -34,7 +34,7 @@ public class ScreenshotUtil {
 
 	}
 
-	public void screenshotFailureClass(String testName) {
+	public void screenshotFailureClass(String testName)  {
 
 		String timestamp = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss").format(new Date());
 
